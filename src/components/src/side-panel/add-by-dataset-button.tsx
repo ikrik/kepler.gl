@@ -26,7 +26,7 @@ import {Datasets} from '@kepler.gl/table';
 import Tippy from '@tippyjs/react';
 import {Add} from '../common/icons';
 import {Button} from '../common/styled-components';
-import {DatasetSquare} from '../..';
+import {DatasetSquare} from '../common';
 import Typeahead from '../common/item-selector/typeahead';
 import Accessor from '../common/item-selector/accessor';
 import {useIntl} from 'react-intl';
